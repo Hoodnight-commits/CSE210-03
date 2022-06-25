@@ -1,0 +1,30 @@
+C:\Users\jjbsw\OneDrive\Documents\Progamming with classes\Sky diving\bin\Debug\net6.0\Sky diving.exe
+C:\Users\jjbsw\OneDrive\Documents\Progamming with classes\Sky diving\bin\Debug\net6.0\Sky diving.deps.json
+C:\Users\jjbsw\OneDrive\Documents\Progamming with classes\Sky diving\bin\Debug\net6.0\Sky diving.runtimeconfig.json
+C:\Users\jjbsw\OneDrive\Documents\Progamming with classes\Sky diving\bin\Debug\net6.0\Sky diving.dll
+C:\Users\jjbsw\OneDrive\Documents\Progamming with classes\Sky diving\bin\Debug\net6.0\Sky diving.pdb
+C:\Users\jjbsw\OneDrive\Documents\Progamming with classes\Sky diving\obj\Debug\net6.0\Sky diving.csproj.AssemblyReference.cache
+C:\Users\jjbsw\OneDrive\Documents\Progamming with classes\Sky diving\obj\Debug\net6.0\Sky diving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jjbsw\OneDrive\Documents\Progamming with classes\Sky diving\obj\Debug\net6.0\Sky diving.AssemblyInfoInputs.cache
+C:\Users\jjbsw\OneDrive\Documents\Progamming with classes\Sky diving\obj\Debug\net6.0\Sky diving.AssemblyInfo.cs
+C:\Users\jjbsw\OneDrive\Documents\Progamming with classes\Sky diving\obj\Debug\net6.0\Sky diving.csproj.CoreCompileInputs.cache
+C:\Users\jjbsw\OneDrive\Documents\Progamming with classes\Sky diving\obj\Debug\net6.0\Sky diving.dll
+C:\Users\jjbsw\OneDrive\Documents\Progamming with classes\Sky diving\obj\Debug\net6.0\refint\Sky diving.dll
+C:\Users\jjbsw\OneDrive\Documents\Progamming with classes\Sky diving\obj\Debug\net6.0\Sky diving.pdb
+C:\Users\jjbsw\OneDrive\Documents\Progamming with classes\Sky diving\obj\Debug\net6.0\Sky diving.genruntimeconfig.cache
+C:\Users\jjbsw\OneDrive\Documents\Progamming with classes\Sky diving\obj\Debug\net6.0\ref\Sky diving.dll
+C:\Users\jjbsw\OneDrive\Documents\Progamming with classes\Jumper-Unit04\obj\Debug\net6.0\Sky diving.csproj.AssemblyReference.cache
+C:\Users\jjbsw\OneDrive\Documents\Progamming with classes\Jumper-Unit04\obj\Debug\net6.0\Sky diving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jjbsw\OneDrive\Documents\Progamming with classes\Jumper-Unit04\obj\Debug\net6.0\Sky diving.AssemblyInfoInputs.cache
+C:\Users\jjbsw\OneDrive\Documents\Progamming with classes\Jumper-Unit04\obj\Debug\net6.0\Sky diving.AssemblyInfo.cs
+C:\Users\jjbsw\OneDrive\Documents\Progamming with classes\Jumper-Unit04\obj\Debug\net6.0\Sky diving.csproj.CoreCompileInputs.cache
+C:\Users\jjbsw\OneDrive\Documents\Progamming with classes\Jumper-Unit04\obj\Debug\net6.0\Sky diving.dll
+C:\Users\jjbsw\OneDrive\Documents\Progamming with classes\Jumper-Unit04\obj\Debug\net6.0\refint\Sky diving.dll
+C:\Users\jjbsw\OneDrive\Documents\Progamming with classes\Jumper-Unit04\obj\Debug\net6.0\Sky diving.pdb
+C:\Users\jjbsw\OneDrive\Documents\Progamming with classes\Jumper-Unit04\bin\Debug\net6.0\Sky diving.exe
+C:\Users\jjbsw\OneDrive\Documents\Progamming with classes\Jumper-Unit04\bin\Debug\net6.0\Sky diving.deps.json
+C:\Users\jjbsw\OneDrive\Documents\Progamming with classes\Jumper-Unit04\bin\Debug\net6.0\Sky diving.runtimeconfig.json
+C:\Users\jjbsw\OneDrive\Documents\Progamming with classes\Jumper-Unit04\bin\Debug\net6.0\Sky diving.dll
+C:\Users\jjbsw\OneDrive\Documents\Progamming with classes\Jumper-Unit04\bin\Debug\net6.0\Sky diving.pdb
+C:\Users\jjbsw\OneDrive\Documents\Progamming with classes\Jumper-Unit04\obj\Debug\net6.0\Sky diving.genruntimeconfig.cache
+C:\Users\jjbsw\OneDrive\Documents\Progamming with classes\Jumper-Unit04\obj\Debug\net6.0\ref\Sky diving.dll
